@@ -69,14 +69,23 @@ Me chamo Luísa Mallmann, tenho 18 anos e sou do Rio Grande do Sul. Atualmente s
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=luisamallmann&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=luisamallmann&theme=dracula&show_icons=true&hide_border=true&count_private=false" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=luisamallmann&theme=dracula&hide_border=true"
+  />
+
+</p>
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisamallmann&theme=dracula&show_icons=true&hide_border=true&layout=compact"
   />
 
 </p>
