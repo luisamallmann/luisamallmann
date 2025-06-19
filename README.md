@@ -61,8 +61,8 @@ Me chamo Luísa Mallmann, tenho 18 anos e sou do Rio Grande do Sul. Atualmente s
 
 ### 📊 Estatísticas
  <div style="display: flex; justify-content: space-between;">
-  <img width="44.5%" src="https://github-readme-stats.vercel.app/api?username=luisamallmann&theme=dracula&show_icons=true&hide_border=true&count_private=true&cache_seconds=60"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisamallmann&theme=dracula&show_icons=true&hide_border=true&layout=compact&cache_seconds=60"/>
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=luisamallmann&theme=dracula&show_icons=true&hide_border=true&count_private=true&cache_seconds=60"/>
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisamallmann&theme=dracula&show_icons=true&hide_border=true&layout=compact&cache_seconds=60"/>
 </div>
 
 ##
