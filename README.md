@@ -2,7 +2,7 @@
 
 **`Estudante de Informática`**
 
-Me chamo Luísa Mallmann, tenho 17 anos e sou do Rio Grande do Sul. Atualmente sou estudante do curso Técnico em Informática integrado ao Ensino Médio no Instituto Federal Sul-Rio-Grandense (IFSul). Apaixonada por tecnologia, busco sempre soluções inovadoras e eficientes!
+Me chamo Luísa Mallmann, tenho 18 anos e sou do Rio Grande do Sul. Atualmente sou estudante do curso Técnico em Informática integrado ao Ensino Médio no Instituto Federal Sul-Rio-Grandense (IFSul). Apaixonada por tecnologia, busco sempre soluções inovadoras e eficientes!
 
 ---
 
