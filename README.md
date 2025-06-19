@@ -4,7 +4,7 @@
 
 Me chamo Luísa Mallmann, tenho 18 anos e sou do Rio Grande do Sul. Atualmente sou estudante do curso Técnico em Informática integrado ao Ensino Médio no Instituto Federal Sul-Rio-Grandense (IFSul). Apaixonada por tecnologia, busco sempre soluções inovadoras e eficientes!
 
----
+##
 
 ### 💌 Contatos
 <div>
@@ -13,12 +13,12 @@ Me chamo Luísa Mallmann, tenho 18 anos e sou do Rio Grande do Sul. Atualmente s
 <a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/lu%C3%ADsamallmann/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
----
+##
 
 ### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
+<div>
+     <img 
+    align="center" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -26,7 +26,7 @@ Me chamo Luísa Mallmann, tenho 18 anos e sou do Rio Grande do Sul. Atualmente s
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="CSS" 
     title="CSS"
     width="30px" 
@@ -34,58 +34,31 @@ Me chamo Luísa Mallmann, tenho 18 anos e sou do Rio Grande do Sul. Atualmente s
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
+<img
+    align="center" 
     alt="Bootstrap"
-    title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
+/> 
+<img
+    align="center"
+    alt="Java"
+    width="30px"
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+</div>
 
-<br/>
-<br/>
+##
 
 ### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=luisamallmann&theme=dracula&show_icons=true&hide_border=true&count_private=false" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=luisamallmann&theme=dracula&hide_border=true"
-  />
-
-</p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisamallmann&theme=dracula&show_icons=true&hide_border=true&layout=compact"
-  />
-
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisamallmann&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisamallmann&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
