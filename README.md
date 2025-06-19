@@ -65,4 +65,4 @@ Me chamo Luísa Mallmann, tenho 18 anos e sou do Rio Grande do Sul. Atualmente s
 
 ##
 
-https://github.com/luisamallmann/luisamallmann/blob/output/github-contribuition-grid-snake.svg
+![Snake Animation](https://github.com/luisamallmann/luisamallmann/blob/output/github-contribuition-grid-snake.svg)
