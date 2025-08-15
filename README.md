@@ -1,10 +1,10 @@
-## 👩🏻‍💻| Luísa Mallmann
+<div align ="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fc5656&reversal=false"/>
 
-**`Estudante de Informática`**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d69090&size=35&center=true&vCenter=true&width=1000&lines=Olá!;Me+chamo+Luisa+Mallmann;Bem-vinda(o)+ao+meu+GitHub+<3)](https://git.io/typing-svg)
 
-Me chamo Luísa Mallmann, tenho 18 anos e sou do Rio Grande do Sul. Atualmente sou estudante do curso Técnico em Informática integrado ao Ensino Médio no Instituto Federal Sul-Rio-Grandense (IFSul). Apaixonada por tecnologia, busco sempre soluções inovadoras e eficientes!
-
-##
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fc5656&reversal=true&section=footer"/>
+</div>
 
 ### 💌 Redes Sociais
 <div>
